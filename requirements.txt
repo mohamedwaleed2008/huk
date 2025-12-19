@@ -1,0 +1,9 @@
+flask
+ultralytics
+opencv-python-headless
+gunicorn
+werkzeug
+numpy
+openai
+requests
+pillow
